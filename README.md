@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kobalik
 - 👀 I’m interested in IT career
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @RazValik (Telegram)
 
 <!---
